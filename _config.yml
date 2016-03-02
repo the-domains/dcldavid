@@ -1,0 +1,28 @@
+name: dcldavid
+favicon: null
+layout_spectrum: 0.5328066861256957
+typography_spectrum: 0.1378474379889667
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7644302945118397
+  lightness: 0.2769719164352864
+  saturation: 0.1448958378750831
+  rhythmicContrast: 0.5097198483999819
+purpose: []
